@@ -1,0 +1,74 @@
+#tong{
+	
+	min-height: 1100px;
+	background-color: #249924;
+	color: white;
+	font-family: arial;
+	width: 1000px;
+	
+	align-content: center;
+	margin: 0 auto;
+	border-color: white;
+	background-color: green;
+}
+
+/*nho vs lon*/
+.nho{
+	background-color: #0f6d6d;
+	width: 300px;
+	height: 400px;
+	border:2px;
+	float: left;
+	color: white;
+
+}
+.nho img{
+	margin-left: 30px;
+margin-top: 30px;
+margin-right: 30px;
+}
+.lon{
+	background-color: #e1f2e1;
+	width: 680px;
+	height: 400px;
+	border:2px;
+	float: left;
+	padding-left: 20px;
+	color: #043a3a;
+
+	
+}
+.nho2{
+	background-color: #1a7f7f;
+	width: 300px;
+	min-height: 800px;
+	border:2px;
+	float: left;
+
+}
+
+.lon2{
+	background-color: #e1f2e1;
+	width: 680px;
+	height: 780px;
+	border:2px;
+	float: left;
+	padding-left: 20px;
+	color: #043a3a;
+	
+
+}
+img {
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+
+
+}
+p{
+	padding-left: 10px;	
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: -10px;
+}
+

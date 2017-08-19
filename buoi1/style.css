@@ -1,0 +1,35 @@
+@font-face{
+	font-family: fontnice;
+	src: url(fonts/LPAllema.ttf);
+}
+@font-face{
+	font-family: font2;
+	src: url(fonts/iCielSoupofJustice.ttf);
+}
+p
+{
+	color:red;
+}
+ h1{
+ 	color:green;
+ 	
+ 	font-size: 50px;
+ }
+ body{
+ 	font-family: arial, sans-serif;
+ }
+#header{
+	height: 100px;
+	background-color: lightgreen;
+
+}
+#main{
+	height: 200px;
+	background-color: #2c9e9e;
+	 font-family: fontnice;
+	 font-size: 30px;
+}
+#footer{
+	height: 100px;
+	background-color: lightgreen;
+}
